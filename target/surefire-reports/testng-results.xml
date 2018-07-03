@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="71469" started-at="2018-07-02T15:47:51Z" finished-at="2018-07-02T15:49:03Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="71469" started-at="2018-07-02T15:47:51Z" finished-at="2018-07-02T15:49:03Z">
+      <class name="com.crm.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testcases.HomePageTest@4e04a765]" name="setup" is-config="true" duration-ms="24277" started-at="2018-07-02T15:47:51Z" finished-at="2018-07-02T15:48:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testing()[pri:0, instance:com.crm.qa.testcases.HomePageTest@4e04a765]" name="testing" duration-ms="2" started-at="2018-07-02T15:48:15Z" finished-at="2018-07-02T15:48:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing -->
+        <test-method status="PASS" signature="breakdown()[pri:0, instance:com.crm.qa.testcases.HomePageTest@4e04a765]" name="breakdown" is-config="true" duration-ms="1" started-at="2018-07-02T15:48:15Z" finished-at="2018-07-02T15:48:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- breakdown -->
+      </class> <!-- com.crm.qa.testcases.HomePageTest -->
+      <class name="com.crm.qa.testcases.LoginTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testcases.LoginTest@783e6358]" name="setup" is-config="true" duration-ms="9663" started-at="2018-07-02T15:48:15Z" finished-at="2018-07-02T15:48:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginPageLogoTest()[pri:1, instance:com.crm.qa.testcases.LoginTest@783e6358]" name="loginPageLogoTest" duration-ms="55" started-at="2018-07-02T15:48:25Z" finished-at="2018-07-02T15:48:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageLogoTest -->
+        <test-method status="PASS" signature="breakdown()[pri:0, instance:com.crm.qa.testcases.LoginTest@783e6358]" name="breakdown" is-config="true" duration-ms="0" started-at="2018-07-02T15:48:25Z" finished-at="2018-07-02T15:48:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- breakdown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testcases.LoginTest@783e6358]" name="setup" is-config="true" duration-ms="13018" started-at="2018-07-02T15:48:25Z" finished-at="2018-07-02T15:48:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:2, instance:com.crm.qa.testcases.LoginTest@783e6358]" name="loginPageTitleTest" duration-ms="8" started-at="2018-07-02T15:48:38Z" finished-at="2018-07-02T15:48:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method status="PASS" signature="breakdown()[pri:0, instance:com.crm.qa.testcases.LoginTest@783e6358]" name="breakdown" is-config="true" duration-ms="0" started-at="2018-07-02T15:48:38Z" finished-at="2018-07-02T15:48:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- breakdown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testcases.LoginTest@783e6358]" name="setup" is-config="true" duration-ms="13697" started-at="2018-07-02T15:48:38Z" finished-at="2018-07-02T15:48:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="LoginAppTest()[pri:3, instance:com.crm.qa.testcases.LoginTest@783e6358]" name="LoginAppTest" duration-ms="10711" started-at="2018-07-02T15:48:52Z" finished-at="2018-07-02T15:49:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginAppTest -->
+        <test-method status="PASS" signature="breakdown()[pri:0, instance:com.crm.qa.testcases.LoginTest@783e6358]" name="breakdown" is-config="true" duration-ms="0" started-at="2018-07-02T15:49:03Z" finished-at="2018-07-02T15:49:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- breakdown -->
+      </class> <!-- com.crm.qa.testcases.LoginTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
