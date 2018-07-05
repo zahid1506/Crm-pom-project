@@ -29,7 +29,7 @@ public class HomePageTest extends TestBase{
 	}
 	@AfterMethod
 	public void breakdown(){
-		
+		driver.quit();
 		
 	}
 	
